@@ -1,0 +1,87 @@
+h1{
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+}
+span{
+    color: red;
+}
+.menu{
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+    padding:10px
+
+}
+a:hover{
+    color: red;
+    
+
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+
+}
+p{ text-align: center;
+    color: white;
+}
+button{
+    color: black;
+    background-color: red;
+    border-radius: 30px;
+    font-weight: bold;
+    border: 2px solid ;
+    width: 200px;
+    height: 50px;
+
+}
+button:hover{
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border: white solid;
+    width: 200px;
+    height:50px;
+
+}
+li{
+    color: white;
+    text-align: center;
+}
+
+.wake2 {
+    object-fit: cover;
+    float: right;
+}
+
+.btn{
+    background-color: red;
+    font-size:12px;
+    font-weight:500;
+    text-transform: uppercase;
+    color: white;
+    padding:10px 20px;
+    border-radius: 5000px;
+    transition: all 0.3s;
+    font-weight: bold;
+    
+}
+.btn:hover{
+    transform: scale(1.15);
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+
+.btn{
+    
+}
